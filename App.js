@@ -361,7 +361,7 @@ marginLeft: 10,
 button: {
 backgroundColor: '#4CAF50',
 borderRadius: 24,
-paddingVertical: 15,
+paddingVertical: 14,
 alignItems: 'center',
 marginTop: 8,
 },
