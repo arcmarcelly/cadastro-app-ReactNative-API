@@ -144,7 +144,7 @@ setErrors(newErrors);
 return;
 }
 
-Alert.alert('Sucesso', 'Cadastro realizado com sucesso!');
+Alert.alert('Sucesso', 'Cadastro realizado!');
 };
 
 const fields = [
